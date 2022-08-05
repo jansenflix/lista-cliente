@@ -11,7 +11,7 @@ https://dls7rxd829s2x.cloudfront.net/data/2/4cc74412.mp4
 https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="RECENTE",Homem-Aranha Longe de Casa
-https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-tragedia-de-macbeth-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="RECENTE",A Tragédia de Macbeth
 https://dls7rxd829s2x.cloudfront.net/data/a/4e75ee7a.mp4
@@ -20,7 +20,7 @@ https://dls7rxd829s2x.cloudfront.net/data/a/4e75ee7a.mp4
 https://dls7rxd829s2x.cloudfront.net/data/7/035c7b87.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="TERROR",It A Coisa – Capítulo 2
-https://dls7rxd829s2x.cloudfront.net/data/a/0804b07a.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="TERROR",Resident Evil Bem-Vindo a Raccoon City
 https://dls7rxd829s2x.cloudfront.net/data/6/471eb386.mp4
@@ -35,19 +35,19 @@ https://dls7rxd829s2x.cloudfront.net/data/4/353b9684.mp4
 https://dls7rxd829s2x.cloudfront.net/data/c/3465119c.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3h34xP5pvLTA7ofOrfUnBN7CMDE.jpg" group-title="TERROR",Raizes Macabras
-https://dls7rxd829s2x.cloudfront.net/data/e/288669be.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ipjlnmwq2BynJt4ZCLI95PwbFV3.jpg" group-title="TERROR",A Viúva das Sombras
 https://dls7rxd829s2x.cloudfront.net/data/8/2c200418.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/piKPOYLyRfmSUEBO4S4Fyq4bXSI.jpg" group-title="TERROR",Não Adianta Rezar
-https://dls7rxd829s2x.cloudfront.net/data/3/042ca423.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" group-title="TERROR",Invocação do Mal 3 A Ordem do Demônio
-https://dls7rxd829s2x.cloudfront.net/data/0/7b5ce550.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="TERROR",Maligno
-https://dls7rxd829s2x.cloudfront.net/data/b/1cc18a8b.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dvsh3qYE2TVhjlQFYV7o13jTAvr.jpg" group-title="TERROR",o chamado 3
 https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
@@ -71,10 +71,10 @@ https://dls7rxd829s2x.cloudfront.net/data/7/6bd05f47.mp4
 https://dash.animaker.com/a/u/txxqb70041/video/dqcbs1635684766375.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="AÇÃO",X-Men Fênix Negra
-https://dls7rxd829s2x.cloudfront.net/data/5/29f23505.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zBQFWjOIE3hoYCG67Y3VVaSnLyc.jpg" group-title="AÇÃO",Pandemia A Guerra Final
-https://dls7rxd829s2x.cloudfront.net/data/6/5ea70ba6.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yfocdCwsdaJQNOpXacHet1S3QEN.jpg" group-title="AÇÃO",Colombiana: Em Busca de Vingança 
 https://dls7rxd829s2x.cloudfront.net/data/6/596d8ec6.mp4
@@ -86,7 +86,7 @@ https://dls7rxd829s2x.cloudfront.net/data/0/6a5d4020.mp4
 https://dls7rxd829s2x.cloudfront.net/data/5/0bb95f95.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg" group-title="AÇÃO",Homem-Aranha Sem Volta Para Casa
-https://dls7rxd829s2x.cloudfront.net/data/b/12ac15fb.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="AÇÃO",Homem-Aranha Longe de Casa
 https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
@@ -97,7 +97,7 @@ https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
 https://dls7rxd829s2x.cloudfront.net/data/9/1010cae9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="AÇÃO",Velozes & Furiosos 9
-https://dls7rxd829s2x.cloudfront.net/data/f/435c6e6f.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" group-title="AÇÃO",Matrix Resurrections
 https://dls7rxd829s2x.cloudfront.net/data/6/04bf3826.mp4
@@ -163,7 +163,7 @@ https://dls7rxd829s2x.cloudfront.net/data/d/459cb24d.mp4
 https://dls7rxd829s2x.cloudfront.net/data/6/758d2d76.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="ANIMAÇÃO",Como Treinar o Seu Dragão 3
-https://dls7rxd829s2x.cloudfront.net/data/2/59aa0ea2.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/p033k6k8V9USI0TWZavIxoYzsGi.jpg" group-title="ANIMAÇÃO",O Poderoso Chefinho 2 Negocios da Família
 https://dls7rxd829s2x.cloudfront.net/data/5/3e7e4d45.mp4
