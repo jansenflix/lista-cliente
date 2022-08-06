@@ -55,7 +55,8 @@ https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="TERROR",ROGAI POR NÓS
 https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="" group-title="TESTE",filme
+https://lh3.googleusercontent.com/UPTgrNbn7Dqvj8PFZazIBbYB6AzIgtXBKYiUXsTlAVDdSNPgxXeuxHatjRuo_Ls7kd0gD9uhEgbMYnsJFtt3GzK726L390rt0e_nys0Id0EuEM4flYRa539kq_togeOT6E2EMUsyzQ=m18
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
