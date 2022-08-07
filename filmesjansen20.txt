@@ -56,7 +56,7 @@ https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
 https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="TESTE",filme
-https://lh3.googleusercontent.com/UPTgrNbn7Dqvj8PFZazIBbYB6AzIgtXBKYiUXsTlAVDdSNPgxXeuxHatjRuo_Ls7kd0gD9uhEgbMYnsJFtt3GzK726L390rt0e_nys0Id0EuEM4flYRa539kq_togeOT6E2EMUsyzQ=m18
+https://fast.getshow.io/p/u/txxqb70041/stream/40238GryFpNraGUUaiNh2v6.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
