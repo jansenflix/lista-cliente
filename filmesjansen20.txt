@@ -377,6 +377,9 @@ https://dls7rxd829s2x.cloudfront.net/data/1/548773b1.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premire
 http://45.175.61.242:4000/play/a0ah/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premire
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+
 #EXTINF:-1 tvg-logo="https://tiny.one/ooooo" group-title="TV-ON",sportv
 http://191.212.166.203:4000/play/a0h2
 
