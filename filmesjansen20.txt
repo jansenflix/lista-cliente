@@ -380,7 +380,7 @@ http://45.175.61.242:4000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-logo="https://tiny.one/ooooo" group-title="TV-ON",sportv
 http://191.212.166.203:4000/play/a0h2
 
-#EXTINF:-1 tvg-logo="https://tiny.one/bandsp" group-title="TV-ON",
+#EXTINF:-1 tvg-logo="https://tiny.one/bandsp" group-title="TV-ON",bandsport
 http://45.175.61.242:4000/play/a0a3/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
