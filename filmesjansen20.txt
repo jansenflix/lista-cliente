@@ -7,6 +7,9 @@ https://dash.animaker.com/a/u/txxqb70041/video/qjgjs1635355238655.mp4
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",ARANHA
 https://fast.getshow.io/p/u/txxqb70041/stream/32893hXz98QJMgGVa9bxcv4.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",LOBO
+https://fast.getshow.io/p/u/txxqb70041/stream/5955715V5fAqCBs6YGeeBv6.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WFVd1wiGNAk/VVpeejjRqJI/AAAAAAAATIo/yNhy9A4gxEQ/s1600/Estrada%2Bda%2BF%C3%BAria%2Bposter.jpg" group-title="MOVIES",MAD MAX HD
 https://dls7rxd829s2x.cloudfront.net/data/2/4cc74412.mp4
 
