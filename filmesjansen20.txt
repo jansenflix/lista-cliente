@@ -395,14 +395,49 @@ http://45.175.61.242:4000/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",A&E
 http://45.175.61.242:4000/play/a0dh/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-ON",Animal Planet
+#EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
 http://45.175.61.242:4000/play/a047/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tiny.one/amc-j" group-title="TV-ON",amc
+http://191.212.166.203:4000/play/a074
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",animal p
+http://191.212.166.203:4000/play/a0ec
+
+#EXTINF:-1 tvg-logo="https://tiny.one/band-nu" group-title="TV-ON",band news
+http://191.212.166.203:4000/play/a0ff
+
+#EXTINF:-1 tvg-logo="https://tiny.one/combbt" group-title="TV-ON",combat
+http://191.212.166.203:4000/play/a0h4
+
+#EXTINF:-1 tvg-logo="https://tiny.one/come-cent" group-title="TV-ON",comed central
+http://191.212.166.203:4000/play/a0hr
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",espn2
+http://191.212.166.203:4000/play/a08v
+
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME
+http://191.212.166.203:4000/play/a0a0
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+
+##############################################################3
+
+#EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP1
+https://dls7rxd829s2x.cloudfront.net/data/d/6ba6513d.mp4
+
+#EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP2
+https://dls7rxd829s2x.cloudfront.net/data/0/704e8630.mp4
+
 
 
 
