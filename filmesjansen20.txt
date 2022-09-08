@@ -475,20 +475,20 @@ https://dls7rxd829s2x.cloudfront.net/data/a/1e07606a.mp4
 https://dls7rxd829s2x.cloudfront.net/data/2/0f722752.mp4
 
 #################################################################################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP1
 https://dls7rxd829s2x.cloudfront.net/data/1/1b327f31.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP2
 https://dls7rxd829s2x.cloudfront.net/data/b/16ba48db.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP3
 https://dls7rxd829s2x.cloudfront.net/data/3/08250fc3.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/pw342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP4
 https://dls7rxd829s2x.cloudfront.net/data/1/0e3677d1.mp4
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP1
 https://dls7rxd829s2x.cloudfront.net/data/f/15edafff.mp4
 
 #######################################################################################################################################
