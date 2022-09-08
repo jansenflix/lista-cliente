@@ -405,10 +405,10 @@ https://dls7rxd829s2x.cloudfront.net/data/5/6a674955.mp4
 https://dls7rxd829s2x.cloudfront.net/data/1/548773b1.mp4
 ################################################################
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premire
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere op1
 http://45.175.61.242:4000/play/a0ah/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premire
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere 
 http://189.91.128.146:4444/udp/227.10.20.102:1234
 
 #EXTINF:-1 tvg-logo="https://tiny.one/ooooo" group-title="TV-ON",sportv
@@ -422,6 +422,9 @@ http://45.175.61.242:4000/play/a0dh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
 http://45.175.61.242:4000/play/a047/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
+http://191.212.166.203:4000/play/a0ec
 
 #EXTINF:-1 tvg-logo="https://tiny.one/amc-j" group-title="TV-ON",amc
 http://191.212.166.203:4000/play/a074
@@ -441,8 +444,11 @@ http://191.212.166.203:4000/play/a0hr
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",espn2
 http://191.212.166.203:4000/play/a08v
 
-#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME op1
 http://191.212.166.203:4000/play/a0a0
+
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME
+http://45.175.61.242:4000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
