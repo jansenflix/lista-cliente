@@ -225,7 +225,7 @@ https://dls7rxd829s2x.cloudfront.net/data/1/2c06ca41.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" group-title="COMEDIA",Cruella
-https://fast.getshow.io/p/u/txxqb70041/stream/30487uaARTUjhcBkGDrLDv6.m3u8
+https://dls7rxd829s2x.cloudfront.net/data/a/3aff58fa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="COMEDIA",Click
 https://dls7rxd829s2x.cloudfront.net/data/d/1de5ef5d.mp4
@@ -241,6 +241,17 @@ https://dls7rxd829s2x.cloudfront.net/data/b/518d91ab.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="COMEDIA",Em Guerra com o Vovô
 https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
@@ -441,7 +452,7 @@ http://191.212.166.203:4000/play/a0a0
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
-#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
 
 
 ##############################################################
@@ -476,6 +487,11 @@ https://dls7rxd829s2x.cloudfront.net/data/3/08250fc3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP4
 https://dls7rxd829s2x.cloudfront.net/data/1/0e3677d1.mp4
 #############################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP1
+https://dls7rxd829s2x.cloudfront.net/data/f/15edafff.mp4
+
+#######################################################################################################################################
 
 
 
