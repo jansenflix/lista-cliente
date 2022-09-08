@@ -423,14 +423,13 @@ http://45.175.61.242:4000/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
 http://45.175.61.242:4000/play/a047/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
+#EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet 1
 http://191.212.166.203:4000/play/a0ec
 
 #EXTINF:-1 tvg-logo="https://tiny.one/amc-j" group-title="TV-ON",amc
 http://191.212.166.203:4000/play/a074
 
-#EXTINF:-1 tvg-logo="" group-title="TV-ON",animal p
-http://191.212.166.203:4000/play/a0ec
+
 
 #EXTINF:-1 tvg-logo="https://tiny.one/band-nu" group-title="TV-ON",band news
 http://191.212.166.203:4000/play/a0ff
