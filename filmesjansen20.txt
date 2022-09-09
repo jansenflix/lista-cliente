@@ -496,6 +496,12 @@ https://dls7rxd829s2x.cloudfront.net/data/1/0e3677d1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP1
 https://dls7rxd829s2x.cloudfront.net/data/f/15edafff.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP2
+https://dls7rxd829s2x.cloudfront.net/data/7/05b2a6c7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP3
+https://dls7rxd829s2x.cloudfront.net/data/0/4e002a00.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP4
+https://dls7rxd829s2x.cloudfront.net/data/4/46b58d74.mp4
 #######################################################################################################################################
 
 
