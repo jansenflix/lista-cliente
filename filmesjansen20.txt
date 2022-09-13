@@ -208,7 +208,8 @@ https://dls7rxd829s2x.cloudfront.net/data/1/37fba811.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/bobs-burgers-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",BOBS BURGERS
 https://dls7rxd829s2x.cloudfront.net/data/1/2c06ca41.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hNPr9ZjIFAnlvRdVUTlq4sFKvvT.jpg" group-title="ANIMAÇÃO",Pinóquio
+https://dls7rxd829s2x.cloudfront.net/data/0/238dfa00.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -471,6 +472,9 @@ https://dls7rxd829s2x.cloudfront.net/data/0/704e8630.mp4
 
 #EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP3
 https://dls7rxd829s2x.cloudfront.net/data/a/620cabea.mp4
+
+#EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP4
+https://dls7rxd829s2x.cloudfront.net/data/0/7c99e3e0.mp4
 
 ##############################################################################################
 
