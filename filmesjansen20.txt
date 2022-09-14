@@ -451,6 +451,28 @@ http://191.212.166.203:4000/play/a0a0
 #EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME
 http://45.175.61.242:4000/play/a0e1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tiny.one/espn23" group-title="TV-ON",ESPN
+http://45.175.61.242:4000/play/a0a2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/fxxx23" group-title="TV-ON",FX
+http://45.175.61.242:4000/play/a0a5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/jp233" group-title="TV-ON",JP
+http://45.175.61.242:4000/play/a0l6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/5dk2w6aa" group-title="TV-ON",NICKELODEON
+http://45.175.61.242:4000/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3mufj8" group-title="TV-ON",SPORTV
+http://45.175.61.242:4000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/b6jjkejd" group-title="TV-ON",TC ACTION
+http://45.175.61.242:4000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
