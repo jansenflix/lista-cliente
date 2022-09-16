@@ -521,6 +521,10 @@ https://dls7rxd829s2x.cloudfront.net/data/3/08250fc3.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP4
 https://dls7rxd829s2x.cloudfront.net/data/1/0e3677d1.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP5
+https://dls7rxd829s2x.cloudfront.net/data/2/33dd4a02.mp4
+
 #############################################################################################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP1
