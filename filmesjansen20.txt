@@ -142,6 +142,21 @@ https://dls7rxd829s2x.cloudfront.net/data/c/61de4aec.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AÇÃO",ASSASSINO SEM RASTRO
 https://dls7rxd829s2x.cloudfront.net/data/2/30499d42.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oI8Ajp9EtDhsd9S81yVRKGTUScM.jpg" group-title="AÇÃO",THOR - AMOR E TROVÃO
+https://dls7rxd829s2x.cloudfront.net/data/0/42a9f2c0.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="AÇÃO",Fim da Estrada
+https://dls7rxd829s2x.cloudfront.net/data/7/17546817.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
 
@@ -193,7 +208,8 @@ https://dls7rxd829s2x.cloudfront.net/data/1/37fba811.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/bobs-burgers-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",BOBS BURGERS
 https://dls7rxd829s2x.cloudfront.net/data/1/2c06ca41.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hNPr9ZjIFAnlvRdVUTlq4sFKvvT.jpg" group-title="ANIMAÇÃO",Pinóquio
+https://dls7rxd829s2x.cloudfront.net/data/0/238dfa00.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -211,7 +227,7 @@ https://dls7rxd829s2x.cloudfront.net/data/1/2c06ca41.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" group-title="COMEDIA",Cruella
-https://fast.getshow.io/p/u/txxqb70041/stream/30487uaARTUjhcBkGDrLDv6.m3u8
+https://dls7rxd829s2x.cloudfront.net/data/a/3aff58fa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="COMEDIA",Click
 https://dls7rxd829s2x.cloudfront.net/data/d/1de5ef5d.mp4
@@ -227,6 +243,17 @@ https://dls7rxd829s2x.cloudfront.net/data/b/518d91ab.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="COMEDIA",Em Guerra com o Vovô
 https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
@@ -382,10 +409,10 @@ https://dls7rxd829s2x.cloudfront.net/data/5/6a674955.mp4
 https://dls7rxd829s2x.cloudfront.net/data/1/548773b1.mp4
 ################################################################
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premire
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere op1
 http://45.175.61.242:4000/play/a0ah/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premire
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere 
 http://189.91.128.146:4444/udp/227.10.20.102:1234
 
 #EXTINF:-1 tvg-logo="https://tiny.one/ooooo" group-title="TV-ON",sportv
@@ -400,11 +427,13 @@ http://45.175.61.242:4000/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
 http://45.175.61.242:4000/play/a047/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet 1
+http://191.212.166.203:4000/play/a0ec
+
 #EXTINF:-1 tvg-logo="https://tiny.one/amc-j" group-title="TV-ON",amc
 http://191.212.166.203:4000/play/a074
 
-#EXTINF:-1 tvg-logo="" group-title="TV-ON",animal p
-http://191.212.166.203:4000/play/a0ec
+
 
 #EXTINF:-1 tvg-logo="https://tiny.one/band-nu" group-title="TV-ON",band news
 http://191.212.166.203:4000/play/a0ff
@@ -418,10 +447,29 @@ http://191.212.166.203:4000/play/a0hr
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",espn2
 http://191.212.166.203:4000/play/a08v
 
-#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME op1
 http://191.212.166.203:4000/play/a0a0
 
-#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME
+http://45.175.61.242:4000/play/a0e1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/espn23" group-title="TV-ON",ESPN
+http://45.175.61.242:4000/play/a0a2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/fxxx23" group-title="TV-ON",FX
+http://45.175.61.242:4000/play/a0a5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/jp233" group-title="TV-ON",JP
+http://45.175.61.242:4000/play/a0l6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tiny.one/5dk2w6aa" group-title="TV-ON",NICKELODEON
+http://45.175.61.242:4000/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3mufj8" group-title="TV-ON",SPORTV
+http://45.175.61.242:4000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/b6jjkejd" group-title="TV-ON",TC ACTION
+http://45.175.61.242:4000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
@@ -430,6 +478,12 @@ http://191.212.166.203:4000/play/a0a0
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+
 
 
 ##############################################################
@@ -440,6 +494,12 @@ https://dls7rxd829s2x.cloudfront.net/data/d/6ba6513d.mp4
 #EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP2
 https://dls7rxd829s2x.cloudfront.net/data/0/704e8630.mp4
 
+#EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP3
+https://dls7rxd829s2x.cloudfront.net/data/a/620cabea.mp4
+
+#EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP4
+https://dls7rxd829s2x.cloudfront.net/data/0/7c99e3e0.mp4
+
 ##############################################################################################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP1
@@ -448,7 +508,41 @@ https://dls7rxd829s2x.cloudfront.net/data/a/1e07606a.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP2
 https://dls7rxd829s2x.cloudfront.net/data/2/0f722752.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP3
+https://dls7rxd829s2x.cloudfront.net/data/e/6c31570e.mp4
+
 #################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP1
+https://dls7rxd829s2x.cloudfront.net/data/1/1b327f31.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP2
+https://dls7rxd829s2x.cloudfront.net/data/b/16ba48db.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP3
+https://dls7rxd829s2x.cloudfront.net/data/3/08250fc3.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP4
+https://dls7rxd829s2x.cloudfront.net/data/1/0e3677d1.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP5
+https://dls7rxd829s2x.cloudfront.net/data/2/33dd4a02.mp4
+
+#############################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP1
+https://dls7rxd829s2x.cloudfront.net/data/f/15edafff.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP2
+https://dls7rxd829s2x.cloudfront.net/data/7/05b2a6c7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP3
+https://dls7rxd829s2x.cloudfront.net/data/0/4e002a00.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP4
+https://dls7rxd829s2x.cloudfront.net/data/4/46b58d74.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP5
+https://dls7rxd829s2x.cloudfront.net/data/c/5b18208c.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP6
+https://dls7rxd829s2x.cloudfront.net/data/0/53cd8400.mp4
+#######################################################################################################################################
 
 
 
