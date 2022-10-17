@@ -298,7 +298,9 @@ https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/jurassic-world-dominio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AVENTURA",JURASSIC WORLD - DOMÍNIO
 https://dls7rxd829s2x.cloudfront.net/data/a/1cd4f6ea.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zjeC2iQBG6WH4jWyZp7wSaS96n.jpg" group-title="AVENTURA",
+Monster High: O Filme
+https://dls7rxd829s2x.cloudfront.net/data/6/2f58e3f6.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
