@@ -569,6 +569,14 @@ http://189.81.150.102:4000/play/a0im
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name="telecine"tvg-logo="LOGO" group-title="Italia",telecine
 http://189.81.150.102:4000/play/a0b2
 
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb
+http://191.209.60.250:8000/play/a016
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb2
+http://191.209.60.250:8000/play/a015
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb3
+http://191.209.60.250:8000/play/a017
 
 
 
