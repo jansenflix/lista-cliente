@@ -562,6 +562,10 @@ https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/play
 http://188.83.254.153:8888/play/a04u/index.m3u8
 
 
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="central tv"tvg-logo="LOGO" group-title="Italia",telecine
+http://189.81.150.102:4000/play/a0im
+
+
 
 
 
