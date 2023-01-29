@@ -419,36 +419,36 @@ http://206.1.95.9:8004/play/a022
 http://189.91.128.146:4444/udp/227.10.20.102:1234
 
 #EXTINF:-1 tvg-logo="https://tiny.one/ooooo" group-title="TV-ON",sportv
-http://191.212.166.203:4000/play/a0h2
+http://206.1.95.9:8004/play/a00f
 
 #EXTINF:-1 tvg-logo="https://tiny.one/bandsp" group-title="TV-ON",bandsport
-http://45.175.61.242:4000/play/a0a3/index.m3u8
+http://206.1.95.9:8004/play/a01p
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",A&E
-http://45.175.61.242:4000/play/a0dh/index.m3u8
+http://206.1.95.9:8004/play/a03d
 
 #EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
-http://45.175.61.242:4000/play/a047/index.m3u8
+http://206.1.95.9:8004/play/a02y
 
 #EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet 1
 http://191.212.166.203:4000/play/a0ec
 
 #EXTINF:-1 tvg-logo="https://tiny.one/amc-j" group-title="TV-ON",amc
-http://191.212.166.203:4000/play/a074
+http://206.1.95.9:8004/play/a00u
 
 
 
 #EXTINF:-1 tvg-logo="https://tiny.one/band-nu" group-title="TV-ON",band news
-http://191.212.166.203:4000/play/a0ff
+http://206.1.95.9:8004/play/a020
 
 #EXTINF:-1 tvg-logo="https://tiny.one/combbt" group-title="TV-ON",combat
-http://191.212.166.203:4000/play/a0h4
+http://206.1.95.9:8004/play/a037
 
 #EXTINF:-1 tvg-logo="https://tiny.one/come-cent" group-title="TV-ON",comed central
-http://191.212.166.203:4000/play/a0hr
+http://206.1.95.9:8004/play/a02x
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",espn2
-http://191.212.166.203:4000/play/a08v
+http://206.1.95.9:8004/play/a027
 
 #EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME op1
 http://191.212.166.203:8004/play/a0a0
@@ -460,7 +460,7 @@ http://206.1.95.9:8004/play/a04n
 http://206.1.95.9:8004/play/a03c
 
 #EXTINF:-1 tvg-logo="https://tiny.one/espn23" group-title="TV-ON",ESPN
-http://45.175.61.242:4000/play/a0a2/index.m3u8
+http://206.1.95.9:8004/play/a01o
 
 #EXTINF:-1 tvg-logo="https://tiny.one/fxxx23" group-title="TV-ON",FX
 http://45.175.61.242:4000/play/a0a5/index.m3u8
