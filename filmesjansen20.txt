@@ -409,7 +409,7 @@ https://dls7rxd829s2x.cloudfront.net/data/1/548773b1.mp4
 ################################################################
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere op1
-http://45.175.61.242:4000/play/a0ah/index.m3u8
+http://206.1.95.9:8004/play/a054
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere 
 http://189.91.128.146:4444/udp/227.10.20.102:1234
