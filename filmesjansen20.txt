@@ -579,7 +579,10 @@ http://191.209.60.250:8000/play/a015
 http://191.209.60.250:8000/play/a017
 
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb4
-http://200.194.238.229:8000/udp/227.0.0.200:1234
+http://187.54.216.63:1500/play/a089
+
+
+
 
 
 
