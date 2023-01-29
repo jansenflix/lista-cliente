@@ -578,8 +578,8 @@ http://191.209.60.250:8000/play/a015
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb3
 http://191.209.60.250:8000/play/a017
 
-#EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb4
-http://187.54.216.63:1500/play/a089
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",globo
+http://45.135.194.241:8022/play/a0gl/index.m3u8
 
 
 
