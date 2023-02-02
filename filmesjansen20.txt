@@ -463,21 +463,22 @@ http://206.1.95.9:8004/play/a03c
 http://206.1.95.9:8004/play/a01o
 
 #EXTINF:-1 tvg-logo="https://tiny.one/fxxx23" group-title="TV-ON",FX
-http://45.175.61.242:4000/play/a0a5/index.m3u8
+http://45.175.61.242:4000/play/a0a5
 
 #EXTINF:-1 tvg-logo="https://tiny.one/jp233" group-title="TV-ON",JP
-http://45.175.61.242:4000/play/a0l6/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tiny.one/5dk2w6aa" group-title="TV-ON",NICKELODEON
-http://45.175.61.242:4000/play/a0a8/index.m3u8
+http://206.1.95.10:8004/play/a01v
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3mufj8" group-title="TV-ON",SPORTV
-http://45.175.61.242:4000/play/a06y/index.m3u8
+http://206.1.95.10:8004/play/a00f
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/b6jjkejd" group-title="TV-ON",TC ACTION
-http://45.175.61.242:4000/play/a05u/index.m3u8
+http://206.1.95.10:8004/play/a017
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
 
 #EXTINF:-1 tvg-logo="" group-title="TV-ON",
 
@@ -555,19 +556,19 @@ outros canais
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name="multshow"tvg-logo="LOGO" group-title="Italia",multshow
 http://206.1.95.9:8004/play/a02q
 
+
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name="central tv"tvg-logo="LOGO" group-title="Italia",central tv
 https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
 
 #EXTINF:01 tvg-ID="http://www.meuguia.tv" tvg-name="amc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="Italia",amc
-http://188.83.254.153:8888/play/a04u/index.m3u8
 
 
-#EXTINF:01 tvg-ID="Multishow.br" tvg-name="telecine"tvg-logo="LOGO" group-title="Italia",telecine
-http://189.81.150.102:4000/play/a0im
 
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="telecine"tvg-logo="LOGO" group-title="Italia",telecine a
+http://206.1.95.10:8004/play/a017
 
-#EXTINF:01 tvg-ID="Multishow.br" tvg-name="telecine"tvg-logo="LOGO" group-title="Italia",telecine
-http://189.81.150.102:4000/play/a0b2
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="telecine"tvg-logo="LOGO" group-title="Italia",telecine p
+http://206.1.95.10:8004/play/a02t
 
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb
 http://191.209.60.250:8000/play/a016
