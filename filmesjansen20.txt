@@ -582,6 +582,23 @@ http://191.209.60.250:8000/play/a017
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",globo
 http://45.135.194.241:8022/play/a0gl/index.m3u8
 
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",sporta
+http://sysadminhost.net:8080/apnamagic/a61f47f7/69426
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",sportb
+http://sysadminhost.net:8080/apnamagic/a61f47f7/343
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",sportc
+http://sysadminhost.net:8080/apnamagic/a61f47f7/33580
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",sportd
+http://sysadminhost.net:8080/apnamagic/a61f47f7/78322
+
+
+#EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="PL: Cartoon Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0f7da7982fa0b9a48cc669a21cd19cd9.png" group-title="Italia", Cartoon Network
+http://sysadminhost.net:8080/apnamagic/a61f47f7/1713
+
+
 
 
 
