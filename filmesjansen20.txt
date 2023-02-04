@@ -598,6 +598,33 @@ http://sysadminhost.net:8080/apnamagic/a61f47f7/78322
 #EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="PL: Cartoon Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0f7da7982fa0b9a48cc669a21cd19cd9.png" group-title="Italia", Cartoon Network
 http://sysadminhost.net:8080/apnamagic/a61f47f7/1713
 
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" group-title="SPORTS", ELEVEN SPORTS 2
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3643
+
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: ELEVEN SPORTS 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="SPORTS", ELEVEN SPORTS 3
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3644
+
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: ELEVEN SPORTS 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="SPORTS", ELEVEN SPORTS 4
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3645
+
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: Polsat Sport Premium 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="SPORTS", Polsat Sport Premium 1
+http://sysadminhost.net:8080/apnamagic/a61f47f7/23199
+
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="SPORTS", Polsat Sport Premium 2
+http://sysadminhost.net:8080/apnamagic/a61f47f7/29607
+
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="SPORTS", Polsat Sport Premium 3
+http://sysadminhost.net:8080/apnamagic/a61f47f7/147031
+
+#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="PL: Polsat Sport Premium 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="SPORTS", Polsat Sport Premium 4
+http://sysadminhost.net:8080/apnamagic/a61f47f7/147034
+
+#EXTINF:-1 tvg-id="polsatsportpremium5ppv.pl" tvg-name="PL: Polsat Sport Premium 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14bd016816e1cbf9669f1b542435f135.png" group-title="SPORTS", Polsat Sport Premium 5
+http://sysadminhost.net:8080/apnamagic/a61f47f7/147035
+
+#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="PL: Sport Klub" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/d680eb597fdb3c1a0f42c96bf0cb5a54.png" group-title="SPORTS", Sport Klub
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3211
+
 
 
 
