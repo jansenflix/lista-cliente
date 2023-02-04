@@ -594,6 +594,12 @@ http://sysadminhost.net:8080/apnamagic/a61f47f7/33580
 #EXTINF:01 tvg-ID="Multishow.br" tvg-name=""tvg-logo="LOGO" group-title="Italia",sportd
 http://sysadminhost.net:8080/apnamagic/a61f47f7/78322
 
+#EXTINF:0 tvg-id="4FUN DANCE" tvg-name="4FUN DANCE" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" timeshift="7" catchup="fs" group-title="Italia" ,4FUN DANCE
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=25361&extension=ts&play_token=RTmo97xj57
+
+#EXTINF:0 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png" timeshift="7" catchup="fs" group-title="Italia" ,Canal+ Seriale HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=46095&extension=ts&play_token=i7xD33fGKY
+
 
 #EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="PL: Cartoon Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0f7da7982fa0b9a48cc669a21cd19cd9.png" group-title="Italia", Cartoon Network
 http://sysadminhost.net:8080/apnamagic/a61f47f7/1713
@@ -601,16 +607,22 @@ http://sysadminhost.net:8080/apnamagic/a61f47f7/1713
 #EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" group-title="SPORTS", ELEVEN SPORTS 2
 http://sysadminhost.net:8080/apnamagic/a61f47f7/3643
 
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: ELEVEN SPORTS 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="SPORTS", ELEVEN SPORTS 3
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: Eleven Sports 2" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport2.pl.png" group-title="SPORTS",ELEVEN SPORTS 2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/95833
+
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="ELEVEN SPORTS 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="SPORTS", ELEVEN SPORTS 3
 http://sysadminhost.net:8080/apnamagic/a61f47f7/3644
 
 #EXTINF:0 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" timeshift="7" catchup="fs" group-title="SPORTS"" ,ELEVEN SPORTS 3 HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26527&extension=ts&play_token=HURjfiGaES
 
-#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: ELEVEN SPORTS 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="SPORTS", ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="ELEVEN SPORTS 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="SPORTS", ELEVEN SPORTS 4
 http://sysadminhost.net:8080/apnamagic/a61f47f7/3645
 
-#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: Polsat Sport Premium 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="SPORTS", Polsat Sport Premium 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 4 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport4.pl.png" group-title="SPORTS",ELEVEN SPORTS 4
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73683
+
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="Polsat Sport Premium 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="SPORTS", Polsat Sport Premium 1
 http://sysadminhost.net:8080/apnamagic/a61f47f7/23199
 
 #EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="SPORTS", Polsat Sport Premium 2
@@ -651,6 +663,9 @@ http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26522&
 
 #EXTINF:0 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Polsat Sport Fight HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26521&extension=ts&play_token=jDcp33cpbm
+
+#EXTINF:0 tvg-id="TVP Sport" tvg-name="TVP Sport" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,TVP Sport HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=18016&extension=ts&play_token=yxC3x6RtOw
 
 
 
