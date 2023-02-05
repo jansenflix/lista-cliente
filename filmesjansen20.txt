@@ -749,6 +749,17 @@ http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29304
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Sport Klub Polska FHD
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/35644
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT5
+
 
 
 
