@@ -601,8 +601,8 @@ http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=25361&
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=46095&extension=ts&play_token=i7xD33fGKY
 
 
-#EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="PL: Cartoon Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0f7da7982fa0b9a48cc669a21cd19cd9.png" group-title="Italia", Cartoon Network
-http://sysadminhost.net:8080/apnamagic/a61f47f7/1713
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: Eleven Sports 1 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport1.pl.png" group-title="SPORTS",PL: Eleven Sports 1 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73681
 
 #EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" group-title="SPORTS", ELEVEN SPORTS 2
 http://sysadminhost.net:8080/apnamagic/a61f47f7/3643
@@ -610,11 +610,17 @@ http://sysadminhost.net:8080/apnamagic/a61f47f7/3643
 #EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: Eleven Sports 2" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport2.pl.png" group-title="SPORTS",ELEVEN SPORTS 2
 http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/95833
 
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="ELEVEN SPORTS 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="SPORTS", ELEVEN SPORTS 3
+EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport3.pl.png" group-title="SPORTS",PL: Eleven Sports3 op1 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73682
+
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="ELEVEN SPORTS 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="SPORTS", ELEVEN SPORTS3 op2
 http://sysadminhost.net:8080/apnamagic/a61f47f7/3644
 
 #EXTINF:0 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" timeshift="7" catchup="fs" group-title="SPORTS"" ,ELEVEN SPORTS 3 HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26527&extension=ts&play_token=HURjfiGaES
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Eleven Sports 4 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport4.pl.png" group-title="SPORTS",PL: Eleven Sports 4 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73683
 
 #EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="ELEVEN SPORTS 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="SPORTS", ELEVEN SPORTS 4
 http://sysadminhost.net:8080/apnamagic/a61f47f7/3645
@@ -643,14 +649,26 @@ http://sysadminhost.net:8080/apnamagic/a61f47f7/3211
 #EXTINF:0 tvg-id="Canal+ Sport" tvg-name="Canalplus Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=18013&extension=ts&play_token=C1jk2FVAqm
 
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: Canal+ Sport " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="SPORTS",PL: Canal+ Sport 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73662
+
 #EXTINF:0 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 2 HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=18014&extension=ts&play_token=SC15hQfbKM
+
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: Canal Sport 2 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport-2.pl.png" group-title="SPORTS",PL: Canal Sport 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73664
 
 #EXTINF:0 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 3 HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=42359&extension=ts&play_token=7YyBqL0G5e
 
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Canal+  Sport 3" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="SPORTS",PL: Canal+  Sport 3
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73765
+
 #EXTINF:0 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 4 HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=42360&extension=ts&play_token=05466OutMw
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Canal+  Sport 4 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="SPORTS",PL: Canal+  Sport 4 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73766
 
 #EXTINF:0 tvg-id="Canal+ Sport 5 HD" tvg-name="Canal+ Sport 5 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 5 HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=256446&extension=ts&play_token=1P8rWy9h1A
@@ -664,8 +682,72 @@ http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26522&
 #EXTINF:0 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Polsat Sport Fight HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26521&extension=ts&play_token=jDcp33cpbm
 
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: Fightbox " tvg-logo="http://worldiptv.xyz/chlogos/FightBox.pl.png" group-title="SPORTS",PL: Fightbox 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73686
+
 #EXTINF:0 tvg-id="TVP Sport" tvg-name="TVP Sport" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,TVP Sport HD
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=18016&extension=ts&play_token=yxC3x6RtOw
+
+#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL: Extreme Sports " tvg-logo="http://worldiptv.xyz/chlogos/ExtremeSports.pl.png" group-title="SPORTS",PL: Extreme Sports 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73685
+
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP Sport HD+" tvg-logo="http://worldiptv.xyz/chlogos/TVPSport.pl.png" group-title="SPORTS",PL: TVP Sport HD+
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73748
+
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: EuroSport 2 " tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.pl.png" group-title="SPORTS",PL: EuroSport 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73684
+
+#################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 1 HD PL
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/46079
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 1 4K
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/348127
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 2 FHD PL
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/11510
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 3 FHD PL
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/26527
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eurosport 1 HD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/11511
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",EuroSport 2 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/16774
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Extra FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/26522
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Fight FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/26521
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/11519
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport News FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/84196
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 1 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/27677
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 2 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/27678
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 3 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29307
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 4 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29306
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 5 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29305
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 6 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29304
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Sport Klub Polska FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/35644
 
 
 
