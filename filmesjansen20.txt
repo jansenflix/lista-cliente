@@ -765,7 +765,366 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN
+http://181.204.210.74:15002/play/a01s
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN op2
+http://170.83.242.8:5350/play/a00u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN2
+http://181.204.210.74:15002/play/a01h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN2 op2
+http://170.83.242.8:5350/play/a02u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN3
+http://181.204.210.74:15002/play/a02z
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN3 op2
+http://170.83.242.8:5350/play/a00h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN4
+http://181.204.210.74:15002/play/a02a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN4 op2
+http://170.83.242.8:5350/play/a01h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN5
+http://181.204.210.74:15002/play/a02h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Fox Sports2
+http://181.204.210.74:15002/play/a020
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Fox Sports3
+http://181.204.210.74:15002/play/a021
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT SPORTS HD
+http://181.204.210.74:15002/play/a05r
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",GOL TV
+http://170.83.242.8:5350/play/a00v
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+
+#######################################################################################################################
+
+#EXTM3U
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: Canal+ Sport " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="Poland - PL",PL: Canal+ Sport 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73662
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: Canal Sport 2 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport-2.pl.png" group-title="Poland - PL",PL: Canal Sport 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73664
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Canal+  Sport 3" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="Poland - PL",PL: Canal+  Sport 3
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73765
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Canal+  Sport 4 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Poland - PL",PL: Canal+  Sport 4 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73766
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: Eleven Sports 1 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport1.pl.png" group-title="Poland - PL",PL: Eleven Sports 1 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73681
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: Eleven Sports 2" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport2.pl.png" group-title="Poland - PL",PL: Eleven Sports 2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/95833
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport3.pl.png" group-title="Poland - PL",PL: Eleven Sports 3 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73682
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Eleven Sports 4 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport4.pl.png" group-title="Poland - PL",PL: Eleven Sports 4 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73683
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: 13 Ulica" tvg-logo="http://worldiptv.xyz/chlogos/13Ulica.pl.png" group-title="Poland - PL",PL: 13 Ulica
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73642
+#EXTINF:-1 tvg-id="4funfitdance.pl" tvg-name="PL: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVDance
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73643
+#EXTINF:-1 tvg-id="4funhits.pl" tvg-name="PL: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVGold Hits
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73644
+#EXTINF:-1 tvg-id="4funtv.pl" tvg-name="PL: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73645
+#EXTINF:-1 tvg-id="adventure.pl" tvg-name="PL: Adventure" tvg-logo="http://worldiptv.xyz/chlogos/TravelAndAdventure.ru.png" group-title="Poland - PL",PL: Adventure
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73646
+#EXTINF:-1 tvg-id="amc.pl" tvg-name="PL: AMC Polska" tvg-logo="http://worldiptv.xyz/chlogos/AMC.pl.png" group-title="Poland - PL",PL: AMC Polska
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73647
+#EXTINF:-1 tvg-id="planete.pl" tvg-name="PL: Planete+" tvg-logo="http://worldiptv.xyz/chlogos/Planete.pl.png" group-title="Poland - PL",PL: Planete+
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73648
+#EXTINF:-1 tvg-id="animalplanet.pl" tvg-name="PL: Animal Planet" tvg-logo="http://worldiptv.xyz/chlogos/AnimalPlanet.pl.png" group-title="Poland - PL",PL: Animal Planet
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73649
+#EXTINF:-1 tvg-id="atmrozrywka.pl" tvg-name="PL: ATM Rozrywka TV" tvg-logo="http://worldiptv.xyz/chlogos/ATMRozrywka.pl.png" group-title="Poland - PL",PL: ATM Rozrywka TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73650
+#EXTINF:-1 tvg-id="axnblack.pl" tvg-name="PL: AXN Black" tvg-logo="http://worldiptv.xyz/chlogos/AXNBlack.pl.png" group-title="Poland - PL",PL: AXN Black
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73651
+#EXTINF:-1 tvg-id="axn.pl" tvg-name="PL: AXN HD" tvg-logo="http://worldiptv.xyz/chlogos/AXN.pl.png" group-title="Poland - PL",PL: AXN HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73652
+#EXTINF:-1 tvg-id="axnspin.pl" tvg-name="PL: AXN Spin " tvg-logo="http://worldiptv.xyz/chlogos/AXNSpin.pl.png" group-title="Poland - PL",PL: AXN Spin 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73653
+#EXTINF:-1 tvg-id="axnwhite.pl" tvg-name="PL: AXN White" tvg-logo="http://worldiptv.xyz/chlogos/AXNWhite.pl.png" group-title="Poland - PL",PL: AXN White
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73654
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Baby TV" tvg-logo="http://worldiptv.xyz/chlogos/BabyTV.gr.png" group-title="Poland - PL",PL: Baby TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73655
+#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="PL: BBC Earth " tvg-logo="http://worldiptv.xyz/chlogos/BBCEarth.tr.png" group-title="Poland - PL",PL: BBC Earth 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73656
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: BBC HD" tvg-logo="http://worldiptv.xyz/chlogos/BBCEntertainment.uk.png" group-title="Poland - PL",PL: BBC HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73657
+#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="PL: Boomerang HD" tvg-logo="http://worldiptv.xyz/chlogos/Boomerang.br.png" group-title="Poland - PL",PL: Boomerang HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73658
+#EXTINF:-1 tvg-id="canalplus.pl" tvg-name="PL: Canal+" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlus.pl.png" group-title="Poland - PL",PL: Canal+
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73659
+#EXTINF:-1 tvg-id="canalplusfamily.pl" tvg-name="PL: Canal+  Family " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusFamily.pl.png" group-title="Poland - PL",PL: Canal+  Family 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73660
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: CANAL+ Premium" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2020/05/CANALPREMIUM.png" group-title="Poland - PL",PL: CANAL+ Premium
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/156821
+#EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="PL: Cartoon Network " tvg-logo="http://worldiptv.xyz/chlogos/CartoonNetwork.pl.png" group-title="Poland - PL",PL: Cartoon Network 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73665
+#EXTINF:-1 tvg-id="cbseuropa.pl" tvg-name="PL: CBS Europa " tvg-logo="http://worldiptv.xyz/chlogos/CBSEuropa.pl.png" group-title="Poland - PL",PL: CBS Europa 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73666
+#EXTINF:-1 tvg-id="cbsreality.pl" tvg-name="PL: CBS Reality" tvg-logo="http://worldiptv.xyz/chlogos/CBSReality.pl.png" group-title="Poland - PL",PL: CBS Reality
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73667
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL: Cinemax 2 " tvg-logo="http://worldiptv.xyz/chlogos/Cinemax2.pl.png" group-title="Poland - PL",PL: Cinemax 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73668
+#EXTINF:-1 tvg-id="cinemax.pl" tvg-name="PL: Cinemax" tvg-logo="http://worldiptv.xyz/chlogos/Cinemax.pl.png" group-title="Poland - PL",PL: Cinemax
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73669
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: Comedy Central Family Polska " tvg-logo="http://worldiptv.xyz/chlogos/ComedyCentral.pl.png" group-title="Poland - PL",PL: Comedy Central Family Polska 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73671
+#EXTINF:-1 tvg-id="davincilearning.pl" tvg-name="PL: Da Vinci Learning" tvg-logo="http://worldiptv.xyz/chlogos/DaVinciLearning.pl.png" group-title="Poland - PL",PL: Da Vinci Learning
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73672
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="PL: Discovery Channel " tvg-logo="http://worldiptv.xyz/chlogos/Discovery.pl.png" group-title="Poland - PL",PL: Discovery Channel 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73673
+#EXTINF:-1 tvg-id="discoverylife.pl" tvg-name="PL: Discovery Life " tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryLife.pl.png" group-title="Poland - PL",PL: Discovery Life 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73674
+#EXTINF:-1 tvg-id="discoveryscience.pl" tvg-name="PL: Discovery Science" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryScience.pl.png" group-title="Poland - PL",PL: Discovery Science
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73675
+#EXTINF:-1 tvg-id="discoveryturboxtra.pl" tvg-name="PL: Discovery Turbo Xtra HD" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryTurboXtra.pl.png" group-title="Poland - PL",PL: Discovery Turbo Xtra HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73676
+#EXTINF:-1 tvg-id="disneychannel.pl" tvg-name="PL: Disney Channel " tvg-logo="http://worldiptv.xyz/chlogos/DisneyChannel.pl.png" group-title="Poland - PL",PL: Disney Channel 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73677
+#EXTINF:-1 tvg-id="disneyjunior.pl" tvg-name="PL: Disney Junior" tvg-logo="http://worldiptv.xyz/chlogos/DisneyJunior.pl.png" group-title="Poland - PL",PL: Disney Junior
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73678
+#EXTINF:-1 tvg-id="disneyxd.pl" tvg-name="PL: Disney XD" tvg-logo="http://worldiptv.xyz/chlogos/DisneyXD.pl.png" group-title="Poland - PL",PL: Disney XD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73679
+#EXTINF:-1 tvg-id="domo.pl" tvg-name="PL: Domo  " tvg-logo="http://worldiptv.xyz/chlogos/Domo.pl.png" group-title="Poland - PL",PL: Domo  
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73680
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: EuroSport 2 " tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.pl.png" group-title="Poland - PL",PL: EuroSport 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73684
+#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL: Extreme Sports " tvg-logo="http://worldiptv.xyz/chlogos/ExtremeSports.pl.png" group-title="Poland - PL",PL: Extreme Sports 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73685
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: Fightbox " tvg-logo="http://worldiptv.xyz/chlogos/FightBox.pl.png" group-title="Poland - PL",PL: Fightbox 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73686
+#EXTINF:-1 tvg-id="filmboxaction.pl" tvg-name="PL: Filmbox Action" tvg-logo="http://worldiptv.xyz/chlogos/FilmBoxAction.pl.png" group-title="Poland - PL",PL: Filmbox Action
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73687
+#EXTINF:-1 tvg-id="filmboxarthouse.pl" tvg-name="PL: Filmbox Arthouse" tvg-logo="http://worldiptv.xyz/chlogos/FilmBoxArtHouse.pl.png" group-title="Poland - PL",PL: Filmbox Arthouse
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73688
+#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="PL: Filmbox Extra " tvg-logo="http://worldiptv.xyz/chlogos/FilmboxExtra.pl.png" group-title="Poland - PL",PL: Filmbox Extra 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73689
+#EXTINF:-1 tvg-id="filmboxfamily.pl" tvg-name="PL: Filmbox Family" tvg-logo="http://worldiptv.xyz/chlogos/FilmboxFamily.pl.png" group-title="Poland - PL",PL: Filmbox Family
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73690
+#EXTINF:-1 tvg-id="filmboxpremium.pl" tvg-name="PL: FilmBox Premium" tvg-logo="http://worldiptv.xyz/chlogos/FilmboxPremium.pl.png" group-title="Poland - PL",PL: FilmBox Premium
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73691
+#EXTINF:-1 tvg-id="foxcomedy.pl" tvg-name="PL: Fox Comedy HD" tvg-logo="http://worldiptv.xyz/chlogos/FoxComedy.pl.png" group-title="Poland - PL",PL: Fox Comedy HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73692
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: H2" tvg-logo="http://worldiptv.xyz/chlogos/H2TV.am.png" group-title="Poland - PL",PL: H2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73693
+#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="PL: HBO 2" tvg-logo="http://worldiptv.xyz/chlogos/HBO2.pl.png" group-title="Poland - PL",PL: HBO 2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73694
+#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="PL: HBO 3" tvg-logo="http://worldiptv.xyz/chlogos/HBO3.pl.png" group-title="Poland - PL",PL: HBO 3
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73695
+#EXTINF:-1 tvg-id="hbo.pl" tvg-name="PL: HBO" tvg-logo="http://worldiptv.xyz/chlogos/HBO.pl.png" group-title="Poland - PL",PL: HBO
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73696
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="PL: HGTV" tvg-logo="http://worldiptv.xyz/chlogos/HGTV.pl.png" group-title="Poland - PL",PL: HGTV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73697
+#EXTINF:-1 tvg-id="history.pl" tvg-name="PL: History Channel HD" tvg-logo="http://worldiptv.xyz/chlogos/HistoryChannel.tr.png" group-title="Poland - PL",PL: History Channel HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73698
+#EXTINF:-1 tvg-id="investigationdiscovery.pl" tvg-name="PL: ID Investigation Discovery " tvg-logo="http://worldiptv.xyz/chlogos/InvestigationDiscovery.pl.png" group-title="Poland - PL",PL: ID Investigation Discovery 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73699
+#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="PL: Kino Polska" tvg-logo="http://worldiptv.xyz/chlogos/KinoPolska.pl.png" group-title="Poland - PL",PL: Kino Polska
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73700
+#EXTINF:-1 tvg-id="kinopolskamuzyka.pl" tvg-name="PL: Kino Polska Muzyka" tvg-logo="http://worldiptv.xyz/chlogos/KinoPolskaMuzyka.pl.png" group-title="Poland - PL",PL: Kino Polska Muzyka
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73701
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Vox Music TV" tvg-logo="https://centrumuslugmultimedialnych.pl/uploads/filePanel/programy/086_Vox_Music_TV.png" group-title="Poland - PL",PL: Vox Music TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73704
+#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: National Geographic" tvg-logo="http://worldiptv.xyz/chlogos/NatGeo.pl.png" group-title="Poland - PL",PL: National Geographic
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73705
+#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: National Geographic People " tvg-logo="http://worldiptv.xyz/chlogos/NatGeoPeople.pl.png" group-title="Poland - PL",PL: National Geographic People 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73706
+#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL: National Geographic Wild HD" tvg-logo="http://worldiptv.xyz/chlogos/NatGeoWild.pl.png" group-title="Poland - PL",PL: National Geographic Wild HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73707
+#EXTINF:-1 tvg-id="nsport.pl" tvg-name="PL: nSport  " tvg-logo="http://worldiptv.xyz/chlogos/nSport.pl.png" group-title="Poland - PL",PL: nSport  
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73708
+#EXTINF:-1 tvg-id="paramount.pl" tvg-name="PL: Paramount Channel " tvg-logo="http://worldiptv.xyz/chlogos/ParamountChannel.pl.png" group-title="Poland - PL",PL: Paramount Channel 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73709
+#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL: Polsat 2" tvg-logo="http://worldiptv.xyz/chlogos/Polsat2.pl.png" group-title="Poland - PL",PL: Polsat 2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73710
+#EXTINF:-1 tvg-id="polsatplay.pl" tvg-name="PL: Polsat Play" tvg-logo="http://worldiptv.xyz/chlogos/PolsatPlay.pl.png" group-title="Poland - PL",PL: Polsat Play
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73711
+#EXTINF:-1 tvg-id="polsatcafe.pl" tvg-name="PL: Polsat Cafe " tvg-logo="http://worldiptv.xyz/chlogos/PolsatCafe.pl.png" group-title="Poland - PL",PL: Polsat Cafe 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73712
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL: Polsat " tvg-logo="http://worldiptv.xyz/chlogos/Polsat.pl.png" group-title="Poland - PL",PL: Polsat 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73713
+#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-name="PL: Polsat Film HD" tvg-logo="http://worldiptv.xyz/chlogos/PolsatFilm.pl.png" group-title="Poland - PL",PL: Polsat Film HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73714
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Polsat Games " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PolsatGamesLogo.png" group-title="Poland - PL",PL: Polsat Games 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73715
+#EXTINF:-1 tvg-id="jimjam.pl" tvg-name="PL: Polsat JimJam" tvg-logo="http://worldiptv.xyz/chlogos/JimJam.pl.png" group-title="Poland - PL",PL: Polsat JimJam
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73716
+#EXTINF:-1 tvg-id="polsatmusic.pl" tvg-name="PL: Polsat Music HD" tvg-logo="https://www.itizaps.net/zapper/logo/b/polsat-music.png" group-title="Poland - PL",PL: Polsat Music HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73717
+#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL: Polsat News HD" tvg-logo="http://worldiptv.xyz/chlogos/PolsatNews.pl.png" group-title="Poland - PL",PL: Polsat News HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73718
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Polsat Rodzina " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Polsat_Rodzina_logo.png" group-title="Poland - PL",PL: Polsat Rodzina 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73719
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: Polsat Sport Premium 1 " tvg-logo="http://worldiptv.xyz/chlogos/TV2SportPremium1.no.png" group-title="Poland - PL",PL: Polsat Sport Premium 1 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73721
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2 " tvg-logo="http://worldiptv.xyz/chlogos/TV2SportPremium2.no.png" group-title="Poland - PL",PL: Polsat Sport Premium 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73722
+#EXTINF:-1 tvg-id="polsatviasathist.pl" tvg-name="PL: Polsat Viasat History HD" tvg-logo="http://worldiptv.xyz/chlogos/ViasatHistory.tr.png" group-title="Poland - PL",PL: Polsat Viasat History HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73724
+#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="PL: Polsat Viasat Nature" tvg-logo="http://worldiptv.xyz/chlogos/ViasatNature.pl.png" group-title="Poland - PL",PL: Polsat Viasat Nature
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73725
+#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="PL: Stopklatka TV" tvg-logo="http://worldiptv.xyz/chlogos/Stopklatka.pl.png" group-title="Poland - PL",PL: Stopklatka TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73726
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Sundance TV " tvg-logo="http://worldiptv.xyz/chlogos/SundanceTV.gr.png" group-title="Poland - PL",PL: Sundance TV 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73727
+#EXTINF:-1 tvg-id="ttv.pl" tvg-name="PL: TTV " tvg-logo="http://worldiptv.xyz/chlogos/TTV.pl.png" group-title="Poland - PL",PL: TTV 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73728
+#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="PL: TV Puls 2" tvg-logo="http://worldiptv.xyz/chlogos/TVPuls2.pl.png" group-title="Poland - PL",PL: TV Puls 2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73729
+#EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="PL: TV Puls " tvg-logo="http://worldiptv.xyz/chlogos/TVPuls.pl.png" group-title="Poland - PL",PL: TV Puls 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73730
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TV4 " tvg-logo="http://worldiptv.xyz/chlogos/TV4.pl.png" group-title="Poland - PL",PL: TV4 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73731
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: TV6 " tvg-logo="http://worldiptv.xyz/chlogos/TV6.pl.png" group-title="Poland - PL",PL: TV6 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73732
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL: TVN 24 " tvg-logo="http://worldiptv.xyz/chlogos/TVN24.pl.png" group-title="Poland - PL",PL: TVN 24 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73733
+#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="PL: TVN Fabuła " tvg-logo="http://worldiptv.xyz/chlogos/TVNFabula.pl.png" group-title="Poland - PL",PL: TVN Fabuła 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73734
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL: TVN " tvg-logo="http://worldiptv.xyz/chlogos/TVN.pl.png" group-title="Poland - PL",PL: TVN 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73735
+#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="PL: TVN Style " tvg-logo="http://worldiptv.xyz/chlogos/TVNStyle.pl.png" group-title="Poland - PL",PL: TVN Style 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73736
+#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="PL: TVN Turbo" tvg-logo="http://worldiptv.xyz/chlogos/TVNTurbo.pl.png" group-title="Poland - PL",PL: TVN Turbo
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73737
+#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1" tvg-logo="http://worldiptv.xyz/chlogos/TVP1.pl.png" group-title="Poland - PL",PL: TVP 1
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73738
+#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL: TVP 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/TVP2.pl.png" group-title="Poland - PL",PL: TVP 2 HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73739
+#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="PL: TVP 3" tvg-logo="http://worldiptv.xyz/chlogos/TVP3.pl.png" group-title="Poland - PL",PL: TVP 3
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73740
+#EXTINF:-1 tvg-id="tvp.pl" tvg-name="PL: TVP " tvg-logo="http://worldiptv.xyz/chlogos/TVPPolonia.pl.png" group-title="Poland - PL",PL: TVP 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73741
+#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="PL: TVP Historia" tvg-logo="http://worldiptv.xyz/chlogos/TVPHistoria.pl.png" group-title="Poland - PL",PL: TVP Historia
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73742
+#EXTINF:-1 tvg-id="tvpkultura.pl" tvg-name="PL: TVP Kultura" tvg-logo="http://worldiptv.xyz/chlogos/TVPKultura.pl.png" group-title="Poland - PL",PL: TVP Kultura
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73744
+#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-name="PL: TVP Polonia" tvg-logo="http://worldiptv.xyz/chlogos/TVPPolonia.pl.png" group-title="Poland - PL",PL: TVP Polonia
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73745
+#EXTINF:-1 tvg-id="tvprozrywka.pl" tvg-name="PL: TVP Rozrywka" tvg-logo="http://worldiptv.xyz/chlogos/TVPRozrywka.pl.png" group-title="Poland - PL",PL: TVP Rozrywka
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73746
+#EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="PL: TVP Seriale" tvg-logo="http://worldiptv.xyz/chlogos/TVPSeriale.pl.png" group-title="Poland - PL",PL: TVP Seriale
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73747
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP Sport HD+" tvg-logo="http://worldiptv.xyz/chlogos/TVPSport.pl.png" group-title="Poland - PL",PL: TVP Sport HD+
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73748
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Universal HD" tvg-logo="http://worldiptv.xyz/chlogos/UniversalChannel.pl.png" group-title="Poland - PL",PL: Universal HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73749
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: VH1" tvg-logo="http://worldiptv.xyz/chlogos/VH1.us.png" group-title="Poland - PL",PL: VH1
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73750
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Activ Family" tvg-logo="https://activefamily.pl/mt-content/uploads/2020/05/logo-active-family-2020-www-2.png" group-title="Poland - PL",PL: Activ Family
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73757
+#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="PL: BBC Brit " tvg-logo="http://worldiptv.xyz/chlogos/BBCBrit.za.png" group-title="Poland - PL",PL: BBC Brit 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73759
+#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="PL: BBC Earth HD" tvg-logo="http://worldiptv.xyz/chlogos/BBCEntertainment.uk.png" group-title="Poland - PL",PL: BBC Earth HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73760
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: BBC First HD+" tvg-logo="http://worldiptv.xyz/chlogos/BBCFirst.au.png" group-title="Poland - PL",PL: BBC First HD+
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73762
+#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="PL: BBC Lifestyle Polska " tvg-logo="http://worldiptv.xyz/chlogos/BBCLifestyle.pl.png" group-title="Poland - PL",PL: BBC Lifestyle Polska 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73763
+#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="PL: Comedy Central HD" tvg-logo="http://worldiptv.xyz/chlogos/ComedyCentral.pl.png" group-title="Poland - PL",PL: Comedy Central HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73767
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="PL: Discovery HD" tvg-logo="http://worldiptv.xyz/chlogos/Discovery.pl.png" group-title="Poland - PL",PL: Discovery HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73768
+#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="PL: Discovery Historia" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryHistoria.pl.png" group-title="Poland - PL",PL: Discovery Historia
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73769
+#EXTINF:-1 tvg-id="domo.pl" tvg-name="PL: Domo  " tvg-logo="http://worldiptv.xyz/chlogos/Domo.pl.png" group-title="Poland - PL",PL: Domo  
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73770
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: DTX" tvg-logo="http://worldiptv.xyz/chlogos/DTXTurbo.tr.png" group-title="Poland - PL",PL: DTX
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73771
+#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="PL: E! Entertainment " tvg-logo="http://worldiptv.xyz/chlogos/EEntertainment.de.png" group-title="Poland - PL",PL: E! Entertainment 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73772
+#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="PL: Eska TV" tvg-logo="http://worldiptv.xyz/chlogos/EskaTV.pl.png" group-title="Poland - PL",PL: Eska TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73773
+#EXTINF:-1 tvg-id="filmboxpremium.pl" tvg-name="PL: FilmBox Premium " tvg-logo="http://worldiptv.xyz/chlogos/FilmboxPremium.pl.png" group-title="Poland - PL",PL: FilmBox Premium 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73775
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Food Network " tvg-logo="http://worldiptv.xyz/chlogos/FoodNetwork.pl.png" group-title="Poland - PL",PL: Food Network 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73776
+#EXTINF:-1 tvg-id="fox.pl" tvg-name="PL: Fox " tvg-logo="http://worldiptv.xyz/chlogos/FOX.pl.png" group-title="Poland - PL",PL: Fox 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73778
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Golf Channel " tvg-logo="http://worldiptv.xyz/chlogos/GolfChannel.us.png" group-title="Poland - PL",PL: Golf Channel 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73779
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Golf Channel HD" tvg-logo="http://worldiptv.xyz/chlogos/GolfChannel.us.png" group-title="Poland - PL",PL: Golf Channel HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73780
+#EXTINF:-1 tvg-id="history.pl" tvg-name="PL: History Channel 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/History2.br.png" group-title="Poland - PL",PL: History Channel 2 HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73781
+#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="PL: Kino Polska TV" tvg-logo="http://worldiptv.xyz/chlogos/KinoPolska.pl.png" group-title="Poland - PL",PL: Kino Polska TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73783
+#EXTINF:-1 tvg-id="kuchniaplus.pl" tvg-name="PL: Kuchnia  HD" tvg-logo="http://worldiptv.xyz/chlogos/KuchniaPlus.pl.png" group-title="Poland - PL",PL: Kuchnia  HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73784
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Metro" tvg-logo="http://worldiptv.xyz/chlogos/Metro.pl.png" group-title="Poland - PL",PL: Metro
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73785
+#EXTINF:-1 tvg-id="minimini.pl" tvg-name="PL: MiniMini  HD" tvg-logo="http://worldiptv.xyz/chlogos/Minimini.pl.png" group-title="Poland - PL",PL: MiniMini  HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73786
+#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="PL: Motowizja " tvg-logo="http://worldiptv.xyz/chlogos/MotowizjaTV.pl.png" group-title="Poland - PL",PL: Motowizja 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73787
+#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="PL: MTV Live HD" tvg-logo="http://worldiptv.xyz/chlogos/MTVLive.pl.png" group-title="Poland - PL",PL: MTV Live HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73788
+#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: National Geographic " tvg-logo="http://worldiptv.xyz/chlogos/NatGeo.pl.png" group-title="Poland - PL",PL: National Geographic 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73789
+#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: National Geoaphic People" tvg-logo="http://worldiptv.xyz/chlogos/NatGeoPeople.pl.png" group-title="Poland - PL",PL: National Geoaphic People
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73790
+#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL: National Geoaphic Wild HD" tvg-logo="http://worldiptv.xyz/chlogos/NatGeoWild.pl.png" group-title="Poland - PL",PL: National Geoaphic Wild HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73791
+#EXTINF:-1 tvg-id="nicktoons.pl" tvg-name="PL: Nicktoons HD" tvg-logo="http://worldiptv.xyz/chlogos/NickTOONS.za.png" group-title="Poland - PL",PL: Nicktoons HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73792
+#EXTINF:-1 tvg-id="nowatv.pl" tvg-name="PL: Nowa TV" tvg-logo="http://antenyopole.pl/images/nowa-tv.png" group-title="Poland - PL",PL: Nowa TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73793
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: NTL" tvg-logo="http://panel.tivix.eu/logo1/NTL.pl.png" group-title="Poland - PL",PL: NTL
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73794
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Nuta TV" tvg-logo="http://worldiptv.xyz/chlogos/NutaTV.pl.png" group-title="Poland - PL",PL: Nuta TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73795
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Polo TV" tvg-logo="http://worldiptv.xyz/chlogos/PoloTV.pl.png" group-title="Poland - PL",PL: Polo TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73796
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: Polsat Doku " tvg-logo="http://worldiptv.xyz/chlogos/PolsatDoku.pl.png" group-title="Poland - PL",PL: Polsat Doku 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73797
+#EXTINF:-1 tvg-id="polsatnews2.pl" tvg-name="PL: Polsat News 2" tvg-logo="http://worldiptv.xyz/chlogos/PolsatNews2.pl.png" group-title="Poland - PL",PL: Polsat News 2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73799
+#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: Polsat Sport HD" tvg-logo="http://worldiptv.xyz/chlogos/PolsatSport.pl.png" group-title="Poland - PL",PL: Polsat Sport HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73801
+#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="PL: Polsat Viasat Nature " tvg-logo="http://worldiptv.xyz/chlogos/ViasatNature.pl.png" group-title="Poland - PL",PL: Polsat Viasat Nature 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73802
+#EXTINF:-1 tvg-id="scifiuniversal.pl" tvg-name="PL: SciFi Universal " tvg-logo="http://worldiptv.xyz/chlogos/ScifiUniversal.pl.png" group-title="Poland - PL",PL: SciFi Universal 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73803
+#EXTINF:-1 tvg-id="starstv.pl" tvg-name="PL: Stars TV" tvg-logo="http://worldiptv.xyz/chlogos/StarsTV.pl.png" group-title="Poland - PL",PL: Stars TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73804
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Super Polsat HD" tvg-logo="http://worldiptv.xyz/chlogos/SuperPolsat.pl.png" group-title="Poland - PL",PL: Super Polsat HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73805
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: TLC " tvg-logo="http://worldiptv.xyz/chlogos/TLC.pl.png" group-title="Poland - PL",PL: TLC 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73806
+#EXTINF:-1 tvg-id="tnt.pl" tvg-name="PL: TNT HD" tvg-logo="http://worldiptv.xyz/chlogos/TNT.pl.png" group-title="Poland - PL",PL: TNT HD
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73807
+#EXTINF:-1 tvg-id="travelchannel.pl" tvg-name="PL: Travel Channel HD+" tvg-logo="http://worldiptv.xyz/chlogos/Travel.bg.png" group-title="Poland - PL",PL: Travel Channel HD+
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73809
+#EXTINF:-1 tvg-id="tvrepublika.pl" tvg-name="PL: TV Republika" tvg-logo="http://worldiptv.xyz/chlogos/TVRepublika.pl.png" group-title="Poland - PL",PL: TV Republika
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73810
+#EXTINF:-1 tvg-id="tvpabc.pl" tvg-name="PL: TVP ABC" tvg-logo="http://worldiptv.xyz/chlogos/TVPABC.pl.png" group-title="Poland - PL",PL: TVP ABC
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73811
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: VOD 207" tvg-logo="http://worldiptv.xyz/chlogos/VOD207.pl.png" group-title="Poland - PL",PL: VOD 207
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73814
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: WP" tvg-logo="http://worldiptv.xyz/chlogos/WPTelewizja.pl.png" group-title="Poland - PL",PL: WP
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73816
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Zoom TV" tvg-logo="https://1.bp.blogspot.com/-ey3AeFzYVuo/WwmhnwirvEI/AAAAAAAATG0/qryVw0YO2X0Fr8dWSWNJc72-7H163LsdACLcBGAs/s1600/zoom_tv_pl.png" group-title="Poland - PL",PL: Zoom TV
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73817
+#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL: TVN 7" tvg-logo="http://worldiptv.xyz/chlogos/TVN7.pl.png" group-title="Poland - PL",PL: TVN 7
 
 
 
