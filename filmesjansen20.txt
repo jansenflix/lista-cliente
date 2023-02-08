@@ -28,7 +28,7 @@ https://dls7rxd829s2x.cloudfront.net/data/7/035c7b87.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="TERROR",It A Coisa – Capítulo 2
 https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="TERROR",Resident Evil Bem-Vindo a Raccoon City
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="TERROR",Resident Evil Bem-Vindo a Raccoon Cityyy
 https://dls7rxd829s2x.cloudfront.net/data/6/471eb386.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2tdouTnIOwcRUv9pWHow5vpUGH6.jpg" group-title="TERROR",Feitiço das Trevas
