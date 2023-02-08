@@ -532,7 +532,7 @@ https://dls7rxd829s2x.cloudfront.net/data/a/33f8419a.mp4
 #EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EP4
 https://dls7rxd829s2x.cloudfront.net/data/0/5a731db0.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EP5
+#EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EPn
 https://dls7rxd829s2x.cloudfront.net/data/e/0f8332de.mp4
 
 
