@@ -820,7 +820,8 @@ http://181.204.210.74:15002/play/a05r
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",GOL TV
 http://170.83.242.8:5350/play/a00v
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",espn2x
+http://191.102.90.97:8000/play/a0jd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
 
