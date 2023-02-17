@@ -837,7 +837,8 @@ http://206.1.95.9:8004/play/a016
 http://206.1.95.15:8004/play/a023
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",sbt3
+http://200.194.238.229:8000/udp/225.1.1.33:1234
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
 
