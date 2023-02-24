@@ -723,6 +723,9 @@ http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73748
 http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73684
 
 #################################################################################################################
+#EXTINF:-1,Globo RJ
+http://206.1.95.14:8004/play/a054
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 1 HD PL
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/46079
 
@@ -792,6 +795,9 @@ http://181.204.210.74:15002/play/a01s
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN op2
 http://170.83.242.8:5350/play/a00u
+
+#EXTINF:-1,ESPN op3
+http://206.1.95.14:8004/play/a01o
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN2
 http://181.204.210.74:15002/play/a01h
