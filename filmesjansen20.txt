@@ -246,7 +246,7 @@ https://dls7rxd829s2x.cloudfront.net/data/b/518d91ab.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="COMEDIA",Em Guerra com o Vovô
 https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg" group-title="COMEDIA",DURO DE ATUAR
 
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
